@@ -279,5 +279,15 @@
       "You are missing some merges"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1754035992.186892,
+    "completed_at": 1754035992.747381,
+    "comments": [
+      "You should have merged feature/dashboard next.",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
