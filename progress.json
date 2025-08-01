@@ -216,5 +216,14 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1754033937.362891,
+    "completed_at": 1754033937.834065,
+    "comments": [
+      "You are missing the bug-fix branch"
+    ],
+    "status": "Incomplete"
   }
 ]
