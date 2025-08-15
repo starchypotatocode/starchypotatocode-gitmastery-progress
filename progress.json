@@ -398,41 +398,5 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-rename",
-    "started_at": 1755244969.691679,
-    "completed_at": 1755244970.239177,
-    "comments": [
-      "Branch 'login' still exists! Remember to rename it to 'feature/login'"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-rename",
-    "started_at": 1755245018.574335,
-    "completed_at": 1755245018.741688,
-    "comments": [
-      "Branch 'feature/login' is missing, did you correctly rename the branch 'login' to 'feature/login'?"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-rename",
-    "started_at": 1755245038.950212,
-    "completed_at": 1755245039.126722,
-    "comments": [
-      "Branch 'login' was not renamed to 'feature/login'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-rename",
-    "started_at": 1755245064.755082,
-    "completed_at": 1755245065.288503,
-    "comments": [
-      "Branch 'login' was not renamed to 'feature/login'!"
-    ],
-    "status": "Incomplete"
   }
 ]
