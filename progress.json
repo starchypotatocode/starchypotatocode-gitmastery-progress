@@ -398,5 +398,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1755244969.691679,
+    "completed_at": 1755244970.239177,
+    "comments": [
+      "Branch 'login' still exists! Remember to rename it to 'feature/login'"
+    ],
+    "status": "Incomplete"
   }
 ]
