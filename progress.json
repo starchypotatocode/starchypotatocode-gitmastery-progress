@@ -407,5 +407,14 @@
       "Branch 'login' still exists! Remember to rename it to 'feature/login'"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1755245018.574335,
+    "completed_at": 1755245018.741688,
+    "comments": [
+      "Branch 'feature/login' is missing, did you correctly rename the branch 'login' to 'feature/login'?"
+    ],
+    "status": "Incomplete"
   }
 ]
